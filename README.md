@@ -9,7 +9,7 @@
 
 # <p align="center"><img width="100" height="54" src="https://github.com/suxf/suxf/blob/main/shake.gif"/> </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=suxf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="suxf" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=suxf&show_icons=true&icon_color=79ff97&hide_title=true&theme=dark" alt="suxf" />
 <div align=center> <img width="255" height="170" src="https://github.com/suxf/suxf/blob/main/game.gif"/> </div>
 
 # <h3 align="center">Languages and Tools:</h3>
