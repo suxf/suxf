@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maple(阿枫) 👨‍💻</h1>
 <h3 align="center">A Game developer from China</h3>
 
-# ![Mario_Gameplay](https://github.com/suxf/suxf/blob/main/mario.gif)
+# ![Mario_Gameplay](https://github.com/suxf/suxf/blob/main/mario.gif) 
 
 <p align="center"> 
 <a title="Hits" target="_blank" href="https://github.com/suxf/suxf"><img src="https://hits.b3log.org/suxf/suxf.svg" ></a>
